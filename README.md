@@ -1,2 +1,0 @@
-## InventYU Hackathon Frontend
-
